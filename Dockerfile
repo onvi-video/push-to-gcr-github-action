@@ -1,4 +1,4 @@
-FROM google/cloud-sdk:313.0.1-alpine
+FROM google/cloud-sdk
 
 # LABEL maintainer="RafikFarhad<rafikfarhad@gmail.com>"
 
